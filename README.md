@@ -2,6 +2,10 @@
 
 A carrier-drone concept planned to transport approximately **four smaller drones** using a **servo-operated deployment mechanism**. The project explored how the smaller vehicles could be accommodated within a larger multirotor platform.
 
+## My contribution — Semester 7
+
+I worked on the carrier design and electronics as part of the team. The project reached a CAD concept and partial prototype stage.
+
 ## Development status
 
 Our team completed the CAD concept and started prototype work, reaching an estimated **20–30% completion**. Cost constrained further development, and the work did not reach a completed physical prototype.
