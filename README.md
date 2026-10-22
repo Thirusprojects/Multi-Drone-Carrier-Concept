@@ -1,47 +1,41 @@
-# Multi-Drone Carrier Concept
+# Multi-Purpose Multi-Drone Carrier Concept
 
-A CAD concept exploring a larger aerial platform intended to carry smaller drones. Nine supplied renders document the layout from multiple viewpoints.
+A carrier-drone concept planned to transport approximately **four smaller drones** using a **servo-operated deployment mechanism**. The project explored how the smaller vehicles could be accommodated within a larger multirotor platform.
 
-**Portfolio:** Thiruppathi P · [Thirusprojects](https://github.com/Thirusprojects)
+## Development status
 
-![Multi-Drone Carrier Concept — supplied project image](media/images/photo-2025-07-11-18-36-24-2.jpg)
+Our team completed the CAD concept and started prototype work, reaching an estimated **20–30% completion**. Cost constrained further development, and the work did not reach a completed physical prototype.
 
-## Project status
+The four-drone carrying arrangement and servo mechanism describe the planned system. Carrying flight and deployment of smaller drones have not been established as completed tests.
 
-CAD-render documentation only in the supplied material. No native CAD model or physical carrier test was included.
+## Design approach
 
-## Contribution
+The concept combines a larger multirotor airframe with a central carrying structure. A servo mechanism was planned to operate the deployment arrangement. The CAD views below show the proposed layout from different angles.
 
-Design responsibilities and team ownership are awaiting confirmation.
+| Item | Project details |
+| --- | --- |
+| Planned capacity | Approximately four small drones |
+| Planned actuation | Servo mechanism |
+| Completed work | CAD concept and partial prototype work |
+| Estimated prototype progress | 20–30% |
+| Main constraint | Cost |
 
-## Design and documented features
+## CAD concept views
 
-- Multirotor carrier arrangement shown in CAD views.
-- Central payload enclosure and supporting structure.
-- Top, side and perspective views for visual design review.
+![Project view 1](media/images/photo-2025-07-11-18-36-24-2.jpg)
 
-## Image gallery
+![Project view 2](media/images/photo-2025-07-11-18-36-24-3.jpg)
 
-- [Project image 1](media/images/photo-2025-07-11-18-36-24-2.jpg)
-- [Project image 2](media/images/photo-2025-07-11-18-36-24-3.jpg)
-- [Project image 3](media/images/photo-2025-07-11-18-36-24-4.jpg)
-- [Project image 4](media/images/photo-2025-07-11-18-36-24-5.jpg)
-- [Project image 5](media/images/photo-2025-07-11-18-36-24-6.jpg)
-- [Project image 6](media/images/photo-2025-07-11-18-36-24-7.jpg)
-- [Project image 7](media/images/photo-2025-07-11-18-36-24-8.jpg)
-- [Project image 8](media/images/photo-2025-07-11-18-36-24-9.jpg)
-- [Project image 9](media/images/photo-2025-07-11-18-36-24.jpg)
+![Project view 3](media/images/photo-2025-07-11-18-36-24-4.jpg)
 
-## Evidence and limitations
+![Project view 4](media/images/photo-2025-07-11-18-36-24-5.jpg)
 
-Flight, payload capacity, release mechanisms and airborne deployment have not been demonstrated by the supplied files. Renders establish design intent only.
+![Project view 5](media/images/photo-2025-07-11-18-36-24-6.jpg)
 
-## Details to complete
+![Project view 6](media/images/photo-2025-07-11-18-36-24-7.jpg)
 
-Confirm which parts you designed and whether a physical prototype, carrying test or release test was completed.
+![Project view 7](media/images/photo-2025-07-11-18-36-24-8.jpg)
 
-## File provenance
+![Project view 8](media/images/photo-2025-07-11-18-36-24-9.jpg)
 
-See [asset inventory](docs/ASSETS.md) for the mapping to supplied filenames. JPEG and MP4 exports are provided for browser access. Original presentation, PDF and CAD contents are retained where supplied.
-
-This repository documents project materials supplied by the portfolio owner. Team work and third-party design contributions should be credited as their roles are confirmed.
+![Project view 9](media/images/photo-2025-07-11-18-36-24.jpg)
